@@ -1,0 +1,47 @@
+{
+	"project_info": {
+		"project_number": "973899402246",
+		"project_id": "hempire-delivery-app",
+		"storage_bucket": "hempire-delivery-app.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:973899402246:android:a65f14e5f9a89131b10787",
+				"android_client_info": {
+					"package_name": "com.app.saviansdish"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "973899402246-i1vnhiu78eidgsc1hgk1cpg6qo7jd5ud.apps.googleusercontent.com",
+					"client_type": 1,
+					"android_info": {
+						"package_name": "com.app.saviansdish",
+						"certificate_hash": "4a5ca489b5744ec614e687bf129145106b626120"
+					}
+				},
+				{
+					"client_id": "973899402246-e4ktsu81fcso78c4aok4ojs8elk69f0c.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyABUeRO2rsfdWkAGsCCZ6ZxhpMteglbFl0"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "973899402246-e4ktsu81fcso78c4aok4ojs8elk69f0c.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}

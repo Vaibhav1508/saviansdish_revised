@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\foodgrid\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-anydpi-v24\\ic_arrow.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\28d69015a98d4e34dc6b8f31dddd914c\\jetified-stripe-3ds2-android-1.2.2\\res\\drawable-anydpi-v24\\ic_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\foodgrid\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-anydpi-v24\\ic_indicator.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\28d69015a98d4e34dc6b8f31dddd914c\\jetified-stripe-3ds2-android-1.2.2\\res\\drawable-anydpi-v24\\ic_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\foodgrid\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-anydpi-v24\\ic_unionpay_template_32.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\f34e78f215f5ded920081c4a55bd97dc\\jetified-stripe-android-10.4.6\\res\\drawable-anydpi-v24\\ic_unionpay_template_32.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\foodgrid\\build\\stripe_payment\\intermediates\\res\\merged\\release\\drawable-anydpi-v24\\ic_bank_generic.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\f34e78f215f5ded920081c4a55bd97dc\\jetified-stripe-android-10.4.6\\res\\drawable-anydpi-v24\\ic_bank_generic.xml"
+    }
+]

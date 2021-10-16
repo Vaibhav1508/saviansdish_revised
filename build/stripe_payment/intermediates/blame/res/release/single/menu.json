@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\foodgrid\\build\\stripe_payment\\intermediates\\res\\merged\\release\\menu\\add_payment_method.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\f34e78f215f5ded920081c4a55bd97dc\\jetified-stripe-android-10.4.6\\res\\menu\\add_payment_method.xml"
+    },
+    {
+        "merged": "C:\\Users\\X512FAEJ555T\\AndroidStudioProjects\\foodgrid\\build\\stripe_payment\\intermediates\\res\\merged\\release\\menu\\payment_auth_web_view_menu.xml",
+        "source": "C:\\Users\\X512FAEJ555T\\.gradle\\caches\\transforms-2\\files-2.1\\f34e78f215f5ded920081c4a55bd97dc\\jetified-stripe-android-10.4.6\\res\\menu\\payment_auth_web_view_menu.xml"
+    }
+]
